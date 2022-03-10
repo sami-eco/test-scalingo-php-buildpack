@@ -62,6 +62,9 @@
         "symfony/symfony": "*"
     },
     "extra": {
+        "paas": {
+            "datadog": true
+        },
         "symfony": {
             "allow-contrib": false,
             "require": "6.0.*"
